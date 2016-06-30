@@ -1,0 +1,14 @@
+layout_spectrum: 0.5285960217006505
+typography_spectrum: 0.690412383293733
+color:
+  brandStrength: 0.042456073919311166
+  lightness: 0.5625714617781341
+  saturation: 0.9871498085558414
+  rhythmicContrast: 0.23200409044511616
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Kittronic
