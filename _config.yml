@@ -12,3 +12,7 @@ color:
     - '#B64926'
     - '#8E2800'
 name: Kittronic
+navigation:
+  - name: Behind The Waldorf Astoria Bar Book's Brand New Update
+    id: 09346403-66a7-405b-ac34-668e0a8ba876
+    type: content
