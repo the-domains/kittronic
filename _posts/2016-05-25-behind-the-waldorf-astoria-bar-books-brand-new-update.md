@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-06-30T03:15:11.127Z'
+datePublished: '2016-08-29T16:14:21.805Z'
 sourcePath: _posts/2016-05-25-behind-the-waldorf-astoria-bar-books-brand-new-update.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/waldorf-astoria-bar-book-update'
-hasPage: false
+hasPage: true
 keywords:
   - waldorf
   - book
@@ -17,7 +16,7 @@ keywords:
   - hotel
 related: []
 author: []
-dateModified: '2016-06-30T03:15:10.860Z'
+dateModified: '2016-08-29T16:14:21.400Z'
 title: Behind The Waldorf Astoria Bar Book's Brand New Update
 app_links: []
 publisher:
@@ -32,7 +31,9 @@ description: >-
   the author rewrote it as we know it in 1933 when Prohibition ended.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: behind-the-waldorf-astoria-bar-books-brand-new-update/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
